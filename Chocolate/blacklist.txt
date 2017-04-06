@@ -45,7 +45,7 @@ Nicole_Starch
 Alexander_Rovenchak
 Saburo_Nakamura
 Vladislav_Karnaukh
-Ñonnor_Richardson
+Ã‘onnor_Richardson
 Billy_Shepard
 Dmitriy_Sadovskiy
 Pablo_Esponitos
@@ -237,7 +237,7 @@ Leonardo_Wreazy
 Hayato_Tokagero
 Paul_Rios
 Alexander_Churin
-Tim_Îne
+Tim_ÃŽne
 Egor_Malyshkin
 Roman_Bring
 John_Balan
@@ -747,3 +747,4 @@ Ethan_Carletti
 Bell_Clod
 Kitoshi_Miyazaki
 Salamon_Moralez
+Montaro_Belafonte
